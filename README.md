@@ -42,3 +42,11 @@ In lieu of a global and a local namespace (in an attempt to avoid dynamic scope,
 * When enormous implementation decisions change, run the upgrade utility on your code
     * Walk through step by step as it makes recommendations for upgrading your code
     * Alternatively, run the utility on auto first to see if everything upgrades seamlessly and all of your tests pass (You do have tests, right?)
+
+## Learning
+
+All packages are required to have a koans style walkthrough (with answers separately) demonstrating how to use the package. This will encourage programmers to implement best practices off the bat. Ideally pitfalls will be included as well.
+
+This will be available on the web.
+
+The learning utility will be a tree or list or something ordered by most to least frequently used packages.
