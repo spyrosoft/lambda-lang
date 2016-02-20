@@ -53,3 +53,9 @@ All packages are required to have a koans style walkthrough (with answers separa
 This will be available on the web.
 
 The learning utility will be a tree or list or something ordered by most to least frequently used packages.
+
+## Compiler
+
+### Speed Optimization
+
+* Detect when a function's return statement is not used and disregard it entirely
