@@ -36,6 +36,7 @@ In lieu of a global and a local namespace (in an attempt to avoid dynamic scope,
 * Inner separator pipe |
 * Outer separators (call it unicorn delimiters?) e.g. \`stuff~
     * Tic to start tilde to close
+* Backslash to cancel \
 
 ## Versions and upgrading
 
